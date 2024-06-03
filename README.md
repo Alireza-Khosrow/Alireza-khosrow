@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Alireza and I'm a prgrammer,frontend devloper and web disgner</h2>
+<h2 align="left">Hi 👋! I'm Alireza </h2>
+<h5 align="left"> I am a motivated front-end developer and designer with proficiency in HTML, CSS, JavaScript, and C#. I am familiar with Tailwind, Bootstrap, Git, and GitHub, and currently learning React.js. I am eager to learn and excel in team collaboration and effective communication.
+ </h2>
 
 ###
 
