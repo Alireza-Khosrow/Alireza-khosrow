@@ -6,15 +6,7 @@
 
 ###
 
-<p align="left">🌐  Front end Developer</p>
-
-###
-
-<p align="left">🎓 student of  software engineering</p>
-
-###
-
-<p align="left">🧑‍💻 interested in coding</p>
+<p align="left">🌐  Front end Developer<br>🎓 student of  software engineering<br>🧑‍💻 interested in coding</p>
 
 ###
 
